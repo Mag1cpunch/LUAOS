@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "limine.h": "c",
+        "limits.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "cdefs.h": "c",
+        "debug.h": "c",
+        "ioport.h": "c",
+        "memmap.h": "c",
+        "initializer_list": "c",
+        "random": "c",
+        "type_traits": "c",
+        "vector": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "heap.h": "c",
+        "stdint.h": "c",
+        "asm.h": "c",
+        "process.h": "c",
+        "taskshed.h": "c",
+        "memory.h": "c",
+        "idt.h": "c",
+        "int.h": "c",
+        "stdbool.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
